@@ -1,17 +1,7 @@
-# Road Runner Quickstart
+This is a completed example of how April tags can be implemented in FTC. (This particular example is based on FTC Power Play but can be used in any Apriltag application)
 
-An example FTC project using [Road Runner](https://github.com/acmerobotics/road-runner). **Note:** Road Runner is in alpha and many of its APIs are incubating.
+NOTE: It is advised that you watch the YouTube video I made on how to set this up yourself, as it will help with modifying the code to work for your use case specifically!
+Video Link: https://www.youtube.com/watch?v=GXeSsbGXURM
 
-## Installation
-
-For more detailed instructions on getting Road Runner setup in your own project, see the [Road Runner README](https://github.com/acmerobotics/road-runner#core).
-
-1. Download or clone this repo with `git clone https://github.com/acmerobotics/road-runner-quickstart`.
-
-1. Open the project in Android Studio and build `TeamCode` like any other `ftc_app` project.
-
-1. If you have trouble with multidex, enable proguard by changing `useProguard` to `true` in `build.common.gradle`.
-
-## Documentation
-
-Check out the new [online quickstart documentation](https://acme-robotics.gitbook.io/road-runner/quickstart/introduction).
+Thanks and I hope this helps you out!
+-Reese Delaney (Team 20177)
